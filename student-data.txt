@@ -1,0 +1,21 @@
+Student ID, Student Name, Student Birthdate
+1,John Smith,1999-05-20
+2,Mary Johnson,2000-09-12
+3,David Lee,1998-03-28
+4,Samantha Park,1997-12-05
+5,Michael Kim,2001-07-31
+6,Kelly Chen,1999-11-15
+7,Patrick Jones,2002-02-23
+8,Lisa Nguyen,1998-08-10
+9,Kevin Lee,2003-06-24
+10,Emily Kim,1997-04-17
+11,William Wong,2000-12-01
+12,Alex Brown,1999-09-08
+13,Natalie Lee,1998-01-25
+14,Jason Park,2001-10-09
+15,Megan Davis,1997-07-22
+16,Ryan Chen,2002-04-03
+17,Sara Johnson,1998-10-18
+18,Justin Kim,2003-08-21
+19,Avery Lee,1997-05-24
+20,Grace Lee,2000-01-07
